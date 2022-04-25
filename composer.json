@@ -1,0 +1,14 @@
+{
+    "name": "person/oop-praktikum-2",
+    "description": "Praktikum 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "8.0"
+    },
+    "authors": [
+        {
+            "name": "reza",
+            "email": "rezaagnita88@gmail.com"
+        }
+    ]
+}
